@@ -8,7 +8,7 @@ Para rodar este projeto, siga estes passos:
     ```bash
     git clone https://github.com/Renan2010/ola-mundo-em-cpp.git
     ```
-2. compile o codigo usando o ninja build
+2. Compile o codigo usando o ninja build
    ```bash
    ninja
    ```
