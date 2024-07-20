@@ -1,0 +1,5 @@
+rule CXX
+  command = clang++ $in
+  description = Compilando $out
+ 
+build ola-mundo: CXX src/ola.cpp
