@@ -6,5 +6,17 @@ Para rodar este projeto, siga estes passos:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/usuario/repositorio.git
+    git clone https://github.com/Renan2010/ola-mundo-em-cpp.git
     ```
+2. compile o codigo usando o ninja build
+   ```bash
+   ninja
+   ```
+3. Rode o programa
+   ```bash
+   ./a.out
+   ```
+4. Deve aparecer como isto
+  ```bash
+  Ola Mundo
+  ```
