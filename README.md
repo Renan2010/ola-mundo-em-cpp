@@ -1,6 +1,6 @@
 # Ola mundo em C++
-E um Scripty simples com o Ninja Build com clang para executar o ola mundo em c++
-## Como Rodar o Projeto
+E um Scripty simples com o Ninja Build com Clang para executar o "Ola Mundo" em C++
+# Como Rodar o Projeto
 
 Para rodar este projeto, siga estes passos:
 
